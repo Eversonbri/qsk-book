@@ -18,5 +18,5 @@ spec:
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
-        image: eversonbri/useallq2portalcsapi:latest
+        image: eversonbri/teste:1.0
 
