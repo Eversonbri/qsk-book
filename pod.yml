@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
     - name: web-ctr
-      image: eversonbri/useallq2portalcsapi:latest
+      image: eversonbri/teste:1.0
       ports:
         - containerPort: 8080
